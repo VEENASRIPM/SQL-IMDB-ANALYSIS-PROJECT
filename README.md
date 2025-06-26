@@ -1,4 +1,4 @@
-#  IMDB DATASET SQL ANALYSIS
+#  IMDB DATASET ANALYSIS SQL
 
 ## -- Project Overview
 
